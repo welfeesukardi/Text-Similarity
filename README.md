@@ -99,7 +99,7 @@ Kedekatan makna antar film dihitung dengan memproyeksikan vektor kontinu tersebu
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/rava-andika/Text-Similarity.git
+git clone https://github.com/welfeesukardi/Text-Similarity.git
 cd Text-Similarity
 
 # 2. Buat virtual environment (opsional)
